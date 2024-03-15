@@ -1,0 +1,16 @@
+#root{
+    margin: auto;
+    display: flex;
+    display: grid;
+    place-items: center;
+}
+
+#header{
+    text-align: center;
+}
+
+#play {
+    width: 100px;
+    height: 50px;
+    align-items: center;
+  }
